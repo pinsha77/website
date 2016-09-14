@@ -1,0 +1,10 @@
+{
+    "name": "Pinsha Liao",
+    "company": "Form & Code GmbH",
+    "tags": [ "react", "redux", "nodejs" ],
+    "when": {
+      "saturday": true,
+      "sunday": true
+    },
+    "what_is_my_connection_to_javascript": "I am learning reactjs and redux"
+}
